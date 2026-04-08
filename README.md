@@ -51,4 +51,4 @@ The [docker image](https://hub.docker.com/r/yegle/fava) was switched
 from build by Docker Hub to Github Actions. The image label pattern is
 changed: instead of labeled `version-1.xx` it's now labeled `v1.xx`.
 
-You can check the auto build logs at https://github.com/yegle/fava-docker/actions.
+You can check the auto build logs at https://github.com/kaiwei/fava-docker/actions.
